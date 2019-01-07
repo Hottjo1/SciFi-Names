@@ -2,6 +2,8 @@ Star Trek
 __________
 - Spock
 - Kirk
+- Picard
+- Worf
 
 
 Stargate - Atlantis
